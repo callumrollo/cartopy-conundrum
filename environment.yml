@@ -1,0 +1,8 @@
+name: cart18
+channels:
+  - conda-forge
+dependencies:
+        - numpy
+        - cartopy=0.18
+        - matplotlib
+        - jupyter
